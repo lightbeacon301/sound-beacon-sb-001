@@ -1,0 +1,8 @@
+{
+  "beacon_id": "SB-001",
+  "frequency": 7.83,
+  "activated": "2026-02-19T18:55:38.439725",
+  "purpose": "Earth heartbeat",
+  "part_of": "13 Sacred Sound Beacons",
+  "total_network": "590 beacons (577 electromagnetic + 13 acoustic)"
+}
